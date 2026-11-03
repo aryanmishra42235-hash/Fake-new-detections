@@ -410,8 +410,8 @@ The project draws on publicly available fake/real news data and published resear
 
 ## Author
 
-**Mohammad Salman**
-B.Tech – Computer Science and Engineering
+**Aryan Mishra**
+B.Tech – Computer cience and Engineering
 Data Science and Artificial Intelligence
 Integral University
 
